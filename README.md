@@ -1,2 +1,1 @@
-# the_pantry
-# the_pantry
+a starter project to learn git
